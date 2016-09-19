@@ -1,0 +1,17 @@
+header {
+	background-color: #eebb44;
+	margin-bottom: 50px;
+}
+
+.box{
+	width: 100%;
+}
+
+.profile {
+	border: 1px solid grey;
+	margin-bottom: 15px;
+}
+
+.content{
+	padding: 20px;
+}
